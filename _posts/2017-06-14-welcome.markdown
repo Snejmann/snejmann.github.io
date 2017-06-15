@@ -4,8 +4,10 @@ title:  "Welcome to my new site!"
 date:   2017-06-15 15:11:42 +0200
 categories: about-me new page
 ---
-Hello! Here's my first post. For further information visit [my website|http://www.visual-code.com/].
+Hello! Here's my first post. For further information visit [my website][my-website].
 
 Stay tuned!
 
 #neos #ftw
+
+[my-website]: http://www.visual-code.com/
